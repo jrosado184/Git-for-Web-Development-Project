@@ -42,10 +42,18 @@ Link to finished codepen - https://codepen.io/jrosado184/pen/dyRMoZE?editors=110
     37. Walk me through Lambda's git flow. -Basically we fork a project and make it our own. Then copy the ssh to our git bash directory and then branch it.
     After that we edit our file our file and save it. we then add,commit and push it back to github. we then pull request.
 
-Stretch Questions
 
-    1. What is the difference between an inline element and a block element?
-    2. What happens when an element is positioned absolutely? 
+
+    
+    
+
+ 
+    Stretch Questions
+
+    1. What is the difference between an inline element and a block element? - inline elements stay in the same line and a block elements breaks to a new line
+    2. What happens when an element is positioned absolutely? - it isolates to its own layer
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+
+    Still learning about the stretch question :)
